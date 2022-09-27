@@ -7,6 +7,14 @@ This dataset enables learning models for multiple aspects of this task from huma
 
 ![](./Images/cover_image.png "Data collection in Virtual Reality")
 
+## How to use
+In this [file](example.py) you'll find an example of how to import the dataset into the Python importer provided [here](boxed_importer.py).
+This importer will load all the data into an object-oriented structure for easier use. Refer to its [documentation](boxed_importer.py)
+for more details on how the data is saved and how you can use it.
+
+Alternatively, you can simply use the data directly. Everything is stored in [this folder](Dataset).
+
+## Dataset details
 For a detailed overview of the contents of the dataset, collection procedure or purpose, please refer to [this thesisLINK]().
 
 Alternatively, for a shorter overview refer to [this articleLINK]().
