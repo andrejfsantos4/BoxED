@@ -15,6 +15,8 @@ for more details on how the data is saved and how you can use it.
 Alternatively, you can simply use the data directly. Everything is stored in [this folder](Dataset).
 
 ## Dataset details
+TODO: add summary table here
+
 For a detailed overview of the contents of the dataset, collection procedure or purpose, please refer to [this thesisLINK]().
 
 Alternatively, for a shorter overview refer to [this articleLINK]().
