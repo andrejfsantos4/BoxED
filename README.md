@@ -12,7 +12,7 @@ In this [file](example.py) you'll find an example of how to import the dataset i
 This importer will load all the data into an object-oriented structure for easier use. Refer to its [documentation](boxed_importer.py)
 for more details on how the data is saved and how you can use it.
 
-Alternatively, you can simply use the data directly. Everything is stored in [this folder](Dataset).
+Alternatively, you can simply use the data directly. Everything is stored in the JSON format and available in [this folder](Dataset).
 
 ## Dataset details
 TODO: add summary table here
