@@ -19,4 +19,4 @@ TODO: add summary table here
 
 For a detailed overview of the contents of the dataset, collection procedure or purpose, please refer to [this thesisLINK]().
 
-Alternatively, for a shorter overview refer to [this articleLINK]().
+Alternatively, for a shorter overview refer to [this article](https://arxiv.org/abs/2210.01645).
