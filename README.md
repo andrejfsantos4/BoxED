@@ -15,7 +15,16 @@ for more details on how the data is saved and how you can use it.
 Alternatively, you can simply use the data directly. Everything is stored in the JSON format and available in [this folder](Dataset).
 
 ## Dataset details
-TODO: add summary table here
+| **Parameter**      | **File name**          | **Quantity** | **Format** | **Description**                                                      |
+|:------------------:|:----------------------:|:------------:|:----------:|:--------------------------------------------------------------------:|
+| Grasp Pose         | PickPlace_dataset      | 4644         | JSON       | 6-DoF grasp pose                                                     |
+| Placement Pose     | PickPlace_dataset      | 4644         | JSON       | 6-DoF placement pose inside the box                                  |
+| Packing Sequence   | PickPlace_dataset      | 263          | JSON       | Sequence in which the objects were packed                            |
+| Object Trajectory  | <obj_id>_trajectory    | 4644         | JSON       | Trajectory of the object from the table to the box, sampled at 20 Hz |
+| Headset Trajectory | main_camera_trajectory | 263          | JSON       | Trajectory of the headset during the experiment                      |
+| Objects in Scene   | initial_objects        | 263          | JSON       | List of objects and their poses at the start of each scene           |
+| Top-Down View      | top_down               | 263          | PNG        | Top-down image of the initial layout of the objects                  |
+
 
 For a detailed overview of the contents of the dataset, collection procedure or purpose, please refer to [this thesisLINK]().
 
