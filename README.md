@@ -28,4 +28,4 @@ Alternatively, you can simply use the data directly. Everything is stored in the
 
 For a detailed overview of the contents of the dataset, collection procedure or purpose, please refer to [this thesisLINK]().
 
-Alternatively, for a shorter overview refer to [this article](https://arxiv.org/abs/2210.01645).
+Alternatively, for a shorter overview refer to Section III of this [this article](https://arxiv.org/abs/2210.01645).
