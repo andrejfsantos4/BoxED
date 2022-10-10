@@ -7,14 +7,14 @@ This dataset enables learning models that generate human-like behaviors for mult
 
 ![](./Images/cover_image.png "Data collection in Virtual Reality")
 
-## How to use
+## How to Use
 In this [file](example.py) you'll find an example of how to import the dataset into the Python importer provided [here](boxed_importer.py).
 This importer will load all the data into an object-oriented structure for easier use. Refer to its [documentation](boxed_importer.py)
 for more details on how the data is saved and how you can use it.
 
 Alternatively, you can simply use the data directly. Everything is stored in the JSON format and available in [this folder](Dataset).
 
-## Dataset details
+## Dataset Details
 | **Parameter**      | **File name**          | **Quantity** | **Format** | **Description**                                                      |
 |:------------------:|:----------------------:|:------------:|:----------:|:--------------------------------------------------------------------:|
 | Grasp Pose         | PickPlace_dataset      | 4644         | JSON       | 6-DoF grasp pose                                                     |
@@ -29,3 +29,6 @@ Alternatively, you can simply use the data directly. Everything is stored in the
 For a detailed overview of the contents of the dataset, collection procedure or purpose, please refer to [this thesisLINK]().
 
 Alternatively, for a shorter overview refer to Section III of this [this article](https://arxiv.org/abs/2210.01645).
+
+## Environment Details
+A minimalistic version of the Unity environment used to collect BoxED is available [here](https://github.com/andrejfsantos4/BoxED_Environment). It only contains the main components (objects, gripper, table, etc).
