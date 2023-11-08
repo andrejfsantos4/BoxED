@@ -26,7 +26,7 @@ Alternatively, you can simply use the data directly. Everything is stored in the
 | Top-Down View      | top_down               | 263          | PNG        | Top-down image of the initial layout of the objects                  |
 
 
-For a detailed overview of the contents of the dataset, collection procedure or purpose, please refer to [this thesisLINK]().
+For a detailed overview of the contents of the dataset, collection procedure or purpose, please refer to [this thesis](https://scholar.tecnico.ulisboa.pt/records/EQOWVVPtIiebqZXLpxUO9XAHAC2c-3Rlmcno).
 
 Alternatively, for a shorter overview refer to Section III of this [this article](https://arxiv.org/abs/2210.01645).
 
